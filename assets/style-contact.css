@@ -4,3 +4,15 @@
     margin: 20px;
     background-color: lavenderblush;
 }
+
+.footer {
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: white;
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightskyblue;
+    
+}
