@@ -1,6 +1,10 @@
 .container {
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
     margin:20px;
-    padding: 20px;
+    padding: 15px;
+    padding-bottom: 25px;
     background-color: papayawhip;
 }
 
@@ -20,3 +24,10 @@
     color: magenta;
     font-size:175%;
 }
+
+ .biopic {
+     float: left;
+     margin-right : 20px;
+     width: 30%;
+     height: auto;
+ }

@@ -1,13 +1,16 @@
 .container{
-    margin:20px;
-    padding: 20px;
+    width: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
+    margin: 20px;
     background-color: khaki;
 }
 
 .pic {
     margin: 10px;
-    height: 350px;
-    width: 350px;
+    height: auto;
+    width: 95%;
 }
 
 .footer {
@@ -21,8 +24,4 @@
     background-color: lightskyblue;
 }
 
-#p {
-    <div class="badge badge-primary text-wrap" style="width: 6rem;">
-  This text should wrap.
-</div>
-}
+

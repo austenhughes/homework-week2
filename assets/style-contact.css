@@ -1,5 +1,8 @@
 
 .container {
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
     padding: 20px;
     margin: 20px;
     background-color: lavenderblush;
