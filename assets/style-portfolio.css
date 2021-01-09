@@ -2,9 +2,10 @@
     width: 100%;
     border-width: 5px;
     border-style: solid;
-    border-color: lightcoral;
+    border-color: turquoise;
     margin: 20px;
-    background-color: khaki;
+    margin-bottom: 200px;
+    background-color: honeydew;
 }
 
 .pic {
@@ -14,6 +15,7 @@
 }
 
 .footer {
+    color:whitesmoke;
     border-top-width: 5px;
     border-top-style: solid;
     border-top-color: white;
@@ -21,7 +23,22 @@
     left: 0;
     bottom: 0;
     width: 100%;
+    background-color: cornflowerblue;
+}
+
+.navbar {
+    color: navy;
     background-color: lightskyblue;
 }
 
+.navbar-brand {
+    background-color: lightskyblue;
+}
 
+.nav-item {
+    background-color: lightskyblue;
+}
+
+.navbar-togler {
+    background-color: lightskyblue;
+}
