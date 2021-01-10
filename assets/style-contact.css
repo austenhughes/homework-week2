@@ -1,14 +1,17 @@
 
 .container {
+    font-family: 'Architects Daughter', cursive;
     border-width: 5px;
     border-style: solid;
-    border-color: lightcoral;
+    border-color: turquoise;
     padding: 20px;
     margin: 20px;
-    background-color: lavenderblush;
+    background-color: honeydew;
 }
 
 .footer {
+    font-family: 'Architects Daughter', cursive;
+    color: white;
     border-top-width: 5px;
     border-top-style: solid;
     border-top-color: white;
@@ -16,6 +19,15 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: lightskyblue;
-    
+    background-color: cornflowerblue
+}
+
+.navbar-brand {
+    font-size: 200%;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.nav-item {
+    font-size: 150%;
+    font-family: 'Architects Daughter', cursive;
 }
