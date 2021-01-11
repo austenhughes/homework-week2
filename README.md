@@ -16,4 +16,4 @@ you should not have to add anything to your computer to use this site.
 
 here is the bio page at full size :
 
-![](assets/pictures/Screen Shot 2021-01-10 at 8.04.05 PM.png)
+![](assets/pictures/screenshot.png)
