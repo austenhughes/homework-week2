@@ -15,7 +15,7 @@
     border-style: solid;
     border-color: turquoise;
     margin: 10px;
-    height: 80%;
+    height: 65%;
     width: 95%;
 }
 
@@ -41,3 +41,9 @@
     font-size: 150%;
     font-family: 'Architects Daughter', cursive;
 }
+
+.row {
+    margin: 10px;
+}
+
+

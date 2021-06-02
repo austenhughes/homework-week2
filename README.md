@@ -1,5 +1,3 @@
-# homework-week2
-
 portfolio project
 
 Hi my name is Austen Hughes and this is my portfolio project. the site is organized into the following three pages:
